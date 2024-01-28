@@ -17,5 +17,4 @@ idna==2.10
 tqdm==4.48.2
 tweepy==3.9.0
 wikipedia==1.4.0
-wordcloud==1.8.0
 xmltodict==0.12.0
